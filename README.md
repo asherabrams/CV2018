@@ -10,9 +10,8 @@ http://www.linkedin.com/in/asher813
 
 
 
-TECHNICAL CERTIFICATIONS AND SKILLS
+TECHNICAL SKILLS
 
-- CompTIA A+ certified
 - Microsoft Office Suite and Office 365
 - Windows OS
 - Active Directory
@@ -24,15 +23,16 @@ TECHNICAL CERTIFICATIONS AND SKILLS
 
 EDUCATION
 
-- Microelectronic Theory and Applications, UC Berkeley Extension (online).
-- Cryptography, Stanford University / Coursera (online). - Military education including leadership, communications, and administrative skills. - Undergraduate courses including English Composition, C/C++, Calculus, Physics.
+
+- Military education including leadership, communications, and administrative skills. 
+- Undergraduate courses including English Composition, C/C++, Calculus, Physics.
 
 
 Executive Assistant
 Borealis Exploration, Incorporated.  
 12/2017 - 6/2018
 North Plains, Oregon
-Provided daily support to CEO, including administrative duties and technical support.  Configured workstation, upgraded memory.  Provided user support for Windows phone and Surface tablet.  Installed switch upgrade in local network.  Supervised work details on property.
+Provided daily support to CEO, including administrative duties and technical support.  Typed correspondence, filed patent documents.  Configured workstation, upgraded memory.  Provided user support for Windows phone and Surface tablet.  Installed switch upgrade in local network.  Supervised work details on property.
 
 Service Desk
 Tek Systems
@@ -93,13 +93,12 @@ Scheduler
 Insight Global
 1/2012 - 3/2012 
 San Francisco, CA
-Client:  SalesForce.  Held sole responsibility for remotely coordinating a data migration. Scheduled 200+ users with 5 technicians in three locations in eastern Canada. Responded to unforeseen events such as inclement weather, personnel changes, etc. Adapted scheduling / tracking system to meet changing needs. Assigned leads to sales representatives using Salesforce.com. Updated Leads, Accounts, Contacts, and Opportunities. Used Case Comments, Find Duplicates, Data.com, and Connect for Outlook within Salesforce.com.
+Client:  SalesForce.  Project manager for a data migration. Scheduled 200+ users with 5 technicians in three locations in eastern Canada. Responded to unforeseen events such as inclement weather, personnel changes, etc. Adapted scheduling / tracking system to meet changing needs. Assigned leads to sales representatives using Salesforce.com. Updated Leads, Accounts, Contacts, and Opportunities. Used Case Comments, Find Duplicates, Data.com, and Connect for Outlook within Salesforce.com.
 
 Student
 City College of San Francisco
 1/2011 - 12/2011 
 San Francisco, California
-Mechanical Engineering (Statics), Circuit Analysis.
 Skills: Writing, TYPING, MS Outlook
 Office, Administrative, and Customer Support
 
@@ -145,12 +144,6 @@ Multnomah County
 9/2006 - 11/2006
 Portland, OR
 Clerical duties in support of the licensure of adult foster homes.  Data entry, photocopy, mail, customer support.  Processed license renewal applications, recorded payments, maintained database.
-
-Student
-Portland State University
-9/2002 - 4/2005
-Portland, OR
-Double major in Physics and English.  Completed courses in Calculus, American Literature, Physics, the Ancient Near East, and English composition.
 
 Administrative Services
 Mercer HR Consulting
