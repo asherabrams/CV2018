@@ -21,14 +21,17 @@ TECHNICAL CERTIFICATIONS AND SKILLS
 - Hardware service and replacement
 - POS refresh
 - Workstation configuration
+- ITSM:  ServiceNow, Cherwell, HP Service Manager
+- GitHub
 
 EDUCATION
 
 - Microelectronic Theory and Applications, UC Berkeley Extension (online).
-- Cryptography, Stanford University / Coursera (online). - Military education including leadership, communications, and administrative skills. - Undergraduate courses including English Composition, C/C++, Calculus, Physics.
+- Cryptography, Stanford University / Coursera (online). 
+- Undergraduate courses including C/C++, Calculus, Linear Algebra, Physics.
 
 
-Executive Assistant
+IT Support
 Borealis Exploration, Incorporated.  
 12/2017 - 6/2018
 North Plains, Oregon
@@ -93,7 +96,7 @@ Scheduler
 Insight Global
 1/2012 - 3/2012 
 San Francisco, CA
-Client:  SalesForce.  Held sole responsibility for remotely coordinating a data migration. Scheduled 200+ users with 5 technicians in three locations in eastern Canada. Responded to unforeseen events such as inclement weather, personnel changes, etc. Adapted scheduling / tracking system to meet changing needs. Assigned leads to sales representatives using Salesforce.com. Updated Leads, Accounts, Contacts, and Opportunities. Used Case Comments, Find Duplicates, Data.com, and Connect for Outlook within Salesforce.com.
+Client:  SalesForce.  Project manager for a data migration. Scheduled 200+ users with 5 technicians in three locations in eastern Canada. Responded to unforeseen events such as inclement weather, personnel changes, etc. Adapted scheduling / tracking system to meet changing needs. Assigned leads to sales representatives using Salesforce.com. Updated Leads, Accounts, Contacts, and Opportunities. Used Case Comments, Find Duplicates, Data.com, and Connect for Outlook within Salesforce.com.
 
 Student
 City College of San Francisco
@@ -127,63 +130,3 @@ Netview Staffing
 3/2009 - 5/2009 
 San Francisco, California
 Upgraded computer system at Marriott Hotel, Fisherman’s Wharf, San Francisco. Tasks included coordinating with technical analyst and hotel staff, logging in to server, making system backup tape, configuring system for migration install, and verifying proper system operation with hotel staff.
-
-Legal Photocopy Operator
-Kirkland & Ellis
-9/2007 - 5/2008
-San Francisco, CA
-Legal document production, including high-volume photocopy and scanning to PDF on Xerox 4110 and Canon ImageRunner (color).  Bindery (comb bind and Velobind), drilling, color copy operations, as well as customer service, delivery, and routine machine maintenance.
-
-Scan Operator
-Scan One
-2/2007 - 5/2007
-Portland, OR
-Scanning paper documents on a high-speed scanner with high attention to detail.  Data entry and recordkeeping.  Maintained consistent work output and quality in a production environment.
-
-Office Assistant
-Multnomah County
-9/2006 - 11/2006
-Portland, OR
-Clerical duties in support of the licensure of adult foster homes.  Data entry, photocopy, mail, customer support.  Processed license renewal applications, recorded payments, maintained database.
-
-Student
-Portland State University
-9/2002 - 4/2005
-Portland, OR
-Double major in Physics and English.  Completed courses in Calculus, American Literature, Physics, the Ancient Near East, and English composition.
-
-Administrative Services
-Mercer HR Consulting
-1/2000 - 4/2001
-Portland, OR
-Filing, mailroom, fax operation, photocopy, and a wide variety of administrative and clerical responsibilities.  Heavy reception and customer service duties.
-
-Office Services
-Mercer HR Consulting
-7/1999 - 12/1999
-San Francisco, CA
-Heavy photocopy document production, mail and fax delivery.  General office, administrative, and clerical work.
-
-Document Specialist
-Attorneys’ Diversified Services
-1998
-San Francisco, CA
-Document preparation.  Analyzed legal documents for content and entered information into a database.
-
-Legal Photocopy Operator
-Donnelley Business Services
-1994 - 1998
-San Francisco, CA
-Contract work in a major law firm.  Heavy photocopy and document production.  Compiled statistical reports on Excel software.  Responsible for smooth workflow, customer communication, and prompt, high-quality service.  Telephone and personal customer service.  Over one million images per month heavy in heavy legal copying on Kodak and Xerox equipment.  Heavy fax and mailroom experience.  Created and maintained resource tracking system, monitoring consumption of supplies by department.  Streamlined job tracking system and introduced use of efficiency statistics.
-
-Combat infantryman; administrative NCO
-U.S. Marine Corps
-1989 - 1993
-Camp Pendleton, CA
-Data entry, typing, filing, customer service, heavy phones, heavy executive contact.  Compiled daily attendance reports, typed official correspondence, prepared visual aids, relayed executive messages.  Responsible for smooth operation of company office.  Trained junior personnel in operation of equipment.  Employed anti-tank weapons from Light Armored Vehicle (LAV).  Participated in ground combat operations, Operation Desert Shield / Desert Storm, September 1990 - April 1991.
-
-Telecommunications Specialist/Supervisor
-U.S. Air Force
-1981 - 1987
-Typed official communications.  Operated telegraphic equipment at AUTODIN stations.  Operated document scanning equipment.  Directed telephone communications over 12 lines and provided bilingual customer service in English and Turkish.  Provided customer service in Spanish for Spanish-speaking minority.  Wrote, produced, and distributed telephone users’ guide.  Held Top Secret security clearance.
-
