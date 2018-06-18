@@ -21,6 +21,7 @@ TECHNICAL CERTIFICATIONS AND SKILLS
 - Hardware service and replacement
 - POS refresh
 - Workstation configuration
+- GitHub
 
 EDUCATION
 
