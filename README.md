@@ -33,7 +33,7 @@ Executive Assistant
 Borealis Exploration, Incorporated.  
 12/2017 - 6/2018
 North Plains, Oregon
-Provided daily support to CEO, including administrative duties and technical support.  Configured workstation, upgraded memory.  Provided user support for Windows phone and Surface tablet.  Installed switch upgrade in local network.  Supervised work details on property.
+Provided daily support to CEO, including administrative duties and technical support.  Configured workstation, upgraded memory.  Provided user support for Windows phone and Surface tablet.  Installed switch upgrade in local network.  
 
 Service Desk
 Tek Systems
